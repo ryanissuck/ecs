@@ -1,4 +1,4 @@
-# ecs
+## ecs
 Please clone a copy of this folder with the following command:
 
 git clone https://github.com/mrhenderson/ecs.git GitHub
