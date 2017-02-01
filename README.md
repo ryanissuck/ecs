@@ -2,6 +2,7 @@
 
 ### Create an account on http://github.com using your school email address.
 Be sure to reply to any verification emails you get from GitHub.
+### Reply to the discussion on our schoology page to supply your email and GitHub username. I will need these to add you as a collaborator.
 
 Please clone a copy of this folder with the following command:
 
@@ -32,6 +33,7 @@ git commit -m "Adding a user folder for <YourName>"
 git status
 git push
 ```
+When you perform this push command, you will be required to supply your GitHub credentials. Although the password prompts looks like it's not doing anything, it is. Just enter your password normally at this prompt.
 
 Next, create a branch for yourself with the following commands:
 
