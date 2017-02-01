@@ -1,23 +1,26 @@
 ## Get up and running with Git
 
+# Create an account on http://github.com using your school email address.
+Be sure to reply to any verification emails you get from GitHub.
+
 Please clone a copy of this folder with the following command:
 
-```
+``W`
 git clone https://github.com/mrhenderson/ecs.git GitHub
 ```
 
-The next step is to create a folder for yourself to share code, documents, etc. Create a user folder for yourself (replace MHenderson with your First Initial and last name):
+The next step is to create a folder for yourself to share code, documents, etc. Create a user folder for yourself (replace <YourName> with your First Initial and last name):
 
 ```
 cd GitHub/UserFolder
-mv Username <yourname>
+cp Username <YourName>
 cd ..
 ```
 
 Identify yourself
 
 ```
-git config --global user.name "Your Name"
+git config --global user.name "YourName"
 git config --global user.email you@example.com
 ```
 
@@ -25,7 +28,7 @@ Use the git commands to add and commit this folder
 
 ```
 git add -A
-git commit -m "Adding a user folder for <yourname>"
+git commit -m "Adding a user folder for <YourName>"
 git status
 git push
 ```
