@@ -1,6 +1,6 @@
 ## Get up and running with Git
 
-## Create an account on http://github.com using your school email address.
+### Create an account on http://github.com using your school email address.
 Be sure to reply to any verification emails you get from GitHub.
 
 Please clone a copy of this folder with the following command:
@@ -40,7 +40,7 @@ git branch <yourname>
 git checkout <yourname>
 ```
 
-Modify the GitHub/UserFolder/<yourname>/readme.txt in some way.
+Modify the GitHub/UserFolder/<yourname>/Projects/readme.txt in some way. Use the Atom editor we installed before, or brave the waters with the vi editor. Add your name, a comment, anything really.
 
 Again, do a commit pass:
 
