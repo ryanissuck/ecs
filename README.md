@@ -5,7 +5,7 @@ Be sure to reply to any verification emails you get from GitHub.
 
 Please clone a copy of this folder with the following command:
 
-``W`
+```
 git clone https://github.com/mrhenderson/ecs.git GitHub
 ```
 
