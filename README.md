@@ -1,5 +1,7 @@
 ## Get up and running with Git
 
+#Do not enter greater-than and less-than symbols, these indicate information that needs to be changed.
+
 ### Create an account on http://github.com using your school email address.
 Be sure to reply to any verification emails you get from GitHub.
 ### Reply to the discussion on our schoology page to supply your email and GitHub username. I will need these to add you as a collaborator.
