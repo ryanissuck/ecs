@@ -14,7 +14,7 @@ The next step is to create a folder for yourself to share code, documents, etc. 
 
 ```
 cd GitHub/UserFolder
-cp Username <YourName>
+cp -r Username <YourName>
 cd ..
 ```
 
