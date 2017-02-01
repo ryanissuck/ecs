@@ -1,6 +1,6 @@
 ## Get up and running with Git
 
-# Create an account on http://github.com using your school email address.
+## Create an account on http://github.com using your school email address.
 Be sure to reply to any verification emails you get from GitHub.
 
 Please clone a copy of this folder with the following command:
