@@ -4,7 +4,7 @@
 
 ### Create an account on http://github.com using your school email address.
 Be sure to reply to any verification emails you get from GitHub.
-### Reply to the discussion on our schoology page to supply your email and GitHub username. I will need these to add you as a collaborator.
+### Reply to the discussion on our schoology page to supply your email and GitHub username. I will need these to add you as a collaborator. You will also need to reply to my email invitation to become a collaborator.
 
 Please clone a copy of this folder with the following command:
 
@@ -32,6 +32,12 @@ Use the git commands to add and commit this folder
 ```
 git add -A
 git commit -m "Adding a user folder for <YourName>"
+```
+
+Be sure you have completed the assignment to supply your GitHub email and username before you can complete the git push command.
+You will need to have Accepted my invitation to be a collaborator.
+
+```
 git status
 git push
 ```
