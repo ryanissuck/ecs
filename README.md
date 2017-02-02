@@ -35,10 +35,11 @@ git commit -m "Adding a user folder for <YourName>"
 ```
 
 Be sure you have completed the assignment to supply your GitHub email and username before you can complete the git push command.
-You will need to have Accepted my invitation to be a collaborator.
+You will need to have Accepted my invitation to be a collaborator. Note the use of the pull before pushing. This will ensure that you have any latest changes (folders added by other users). If you get a strange MERGE screen when pulling, you may have changed something you shouldn't have.
 
 ```
 git status
+git pull
 git push
 ```
 When you perform this push command, you will be required to supply your GitHub credentials. Although the password prompts looks like it's not doing anything, it is. Just enter your password normally at this prompt.
